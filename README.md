@@ -1,1 +1,5 @@
-# web-exxen-checker-
+setup : 
+
+pkg install git 
+
+pkg install python
