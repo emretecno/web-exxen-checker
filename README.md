@@ -10,4 +10,4 @@ python3 -m pip install -r requirements.txt
 
 ls
 
-cd webexxen.py 
+python webexxen.py 
